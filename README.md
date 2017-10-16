@@ -12,9 +12,11 @@ Use:
 
 ## Save process
 
+You can use the `save-it` script or type the following commands:
+
 ```
 git add -A
 git commit -a -m 'Save'
-git push 
+git push -u origin master
 ```
 

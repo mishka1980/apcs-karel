@@ -6,5 +6,5 @@ comment="save"
 git pull
 git add -A .
 git commit -a -m "$comment"
-git push
+git push -u origin master
 
