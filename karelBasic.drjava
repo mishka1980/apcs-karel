@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" main="" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="KarelStarter.java" package="" timestamp="16-Oct-2017 00:03:51">
+        <select from="297" to="297"/>
+        <scroll column="134" row="0"/>
+      </file>
+      <file name="Demo.java" package="" timestamp="15-Oct-2017 23:44:07">
+        <select from="297" to="297"/>
+        <scroll column="134" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath>
+      <file absolute="false" name="lib/KarelJRobot.jar"/>
+      <file absolute="false" name="lib/kareluniverse.jar"/>
+      <file absolute="false" name="lib/junit-4.12.jar"/>
+      <file absolute="false" name="lib/hamcrest-core-1.3.jar"/>
+    </classpath>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
