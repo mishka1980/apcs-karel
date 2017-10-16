@@ -2,8 +2,13 @@ import kareltherobot.*;
 import java.awt.Color;
 
 public class KarelStarter implements Directions {
+  public static void main (String[] args)
+  {
+    (new KarelStarter()).doWork();
+  }
+  
+  
   public void doWork () {
-    
     int adamRow=3; 
     int adamCol=4;
     int adamBeepers=5;
@@ -12,7 +17,9 @@ public class KarelStarter implements Directions {
     
     World.setVisible(true);
     World.setDelay(100);
-    UrRobot adam = new UrRobot(adamRow,adamCol,East,adamBeepers,Color.GREEN);
+    UrRobot adam = new UrRobot(adamRow,adamCol,East,
+                               adamBeepers,
+                               Color.GREEN);
     
     adam.move();
     adam.move();
@@ -23,8 +30,5 @@ public class KarelStarter implements Directions {
     adam.turnOff();
       
   }
-  public static void main (String[] args)
-  {
-    (new KarelStarter()).doWork();
-  }
+
 }
