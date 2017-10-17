@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<drjava version="drjava-20160913-225446">
+<drjava version="drjava-20140826-r5761">
   <project autorefresh="false" root="" work="">
     <createjar file=""/>
     <source>
-      <file active="true" name="Skeleton.java" package="" timestamp="16-Oct-2017 10:39:17">
-        <select from="243" to="243"/>
-        <scroll column="0" row="0"/>
+      <file active="true" name="GroceryPickup.java" package="" timestamp="17-Oct-2017 09:43:41">
+        <select from="1178" to="1178"/>
+        <scroll column="115" row="0"/>
       </file>
-      <file name="KarelStarter.java" package="" timestamp="16-Oct-2017 09:42:16">
-        <select from="243" to="243"/>
-        <scroll column="0" row="0"/>
+      <file name="Demo.java" package="" timestamp="17-Oct-2017 09:29:32">
+        <select from="1178" to="1178"/>
+        <scroll column="115" row="0"/>
       </file>
-      <file name="Demo.java" package="" timestamp="15-Oct-2017 23:44:07">
-        <select from="243" to="243"/>
-        <scroll column="0" row="0"/>
+      <file name="MakeWorld.java" package="" timestamp="17-Oct-2017 09:29:32">
+        <select from="1178" to="1178"/>
+        <scroll column="115" row="0"/>
       </file>
-      <file name="MakeWorld.java" package="" timestamp="16-Oct-2017 10:26:53">
-        <select from="243" to="243"/>
-        <scroll column="0" row="0"/>
+      <file name="Skeleton.java" package="" timestamp="17-Oct-2017 09:31:24">
+        <select from="1178" to="1178"/>
+        <scroll column="115" row="0"/>
+      </file>
+      <file name="KarelStarter.java" package="" timestamp="17-Oct-2017 09:31:28">
+        <select from="1178" to="1178"/>
+        <scroll column="115" row="0"/>
       </file>
     </source>
     <included/>
